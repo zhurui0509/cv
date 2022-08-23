@@ -25,9 +25,12 @@ Background
 ======
 I received my Ph.D. from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/) and a B.S. degree in Information Management from the School of Information Management, Shanxi University of Finance and Economics, China. I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/) and a summer data science intern at the [Geospatial Science and Human Security Division, Oak Ridge National Laboratory, US](https://www.ornl.gov/gshsd). 
 
-<span style="color:red">News</span>.
+<span style="color:red">News</span>
 ======
 * Paper deadline for GeoKG 2022 is extended to August 29th, 2022. For more info, click [here](https://geokg-sigspatial.github.io/geokg2022/). 
+* Registration for the [3rd Spatial Data Science Symposium](http://sdss2022.spatial-data-science.net/) is open. 
+
+
 <!-- Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
