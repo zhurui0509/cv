@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Rui Zhu"
 title_separator          : "-"
 name                     : &name "Rui Zhu"
-description              : &description "Lecturer (Assistant Professor), [School of Geographical Sciences](http://www.bristol.ac.uk/geography/), University of Bristol"
+description              : &description "Lecturer (Assistant Professor), School of Geographical Sciences, University of Bristol"
 url                      : https://zhurui0509.github.io/cv/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zhurui0509"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Rui Zhu"
   avatar           : "profile.jpg"
-  bio              : "Lecturer (Assistant Professor), School of Geographical Sciences, University of Bristol"
+  bio              : "Lecturer (Assistant Professor), [School of Geographical Sciences](http://www.bristol.ac.uk/geography/), University of Bristol"
   location         : "Bristol, UK"
   employer         :
   pubmed           : 
@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  ## _posts
   # - scope:
   #     path: ""
   #     type: posts
@@ -216,8 +216,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -225,8 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # # _portfolio
   # - scope:
   #     path: ""
@@ -256,8 +256,8 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+#timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London
 
 # Plugins
 plugins:
