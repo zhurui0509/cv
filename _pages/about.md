@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Rui Zhu, a Lecturer (Assistant Professor) at the [School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (UK). I am a geographer by training with a background in information sciences (or you can call me a spatial data scientist). Broadly speaking, I study how human and machine organize spatial information, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning) approaches to address geospatial challenges such as geospatial data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, indluding urban studies, global health, environmental modeling, as well as humanitarian relief.
+Hi there! I am Rui Zhu, a Lecturer (Assistant Professor) at the [School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (UK). I am a geographer by training with a background in data science (so you can call me a spatial data scientist). Broadly speaking, I study how human and machine organize spatial knowledge, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning) approaches to address geospatial challenges such as geospatial data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, indluding urban studies, global health, environmental modeling, as well as humanitarian relief.
 
 Research Interests
 ======
