@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Rui Zhu, a Lecturer (Assistant Professor) at the [School of Geographical Sciences](http://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (UK). I am a geographer by training with a background in data science (so you can call me a spatial data scientist). Broadly speaking, I study how human and machine organize spatial knowledge, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning) approaches to address geospatial challenges such as geospatial data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, indluding urban studies, global health, environmental modeling, as well as humanitarian relief.
+Hi there! I am Rui Zhu, a Lecturer (Assistant Professor) at the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (UK). I am a geographer by training with a background in data science (so you can call me a spatial data scientist). Broadly speaking, I study how human and machine organize spatial knowledge, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning) approaches to address geospatial challenges such as geospatial data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, indluding urban studies, global health, environmental modeling, as well as humanitarian relief.
 
 Research Interests
 ======
@@ -28,7 +28,7 @@ I received my Ph.D. from the [Department of Geography](https://www.geog.ucsb.edu
 <span style="color:red">News</span>
 ======
 * Paper deadline for GeoKG 2022 is extended to August 29th, 2022. For more info, click [here](https://geokg-sigspatial.github.io/geokg2022/). 
-* Registration for the [3rd Spatial Data Science Symposium](http://sdss2022.spatial-data-science.net/) is open. 
+* Registration for the [3rd Spatial Data Science Symposium](https://sdss2022.spatial-data-science.net/) is open. 
 
 
 <!-- Site-wide configuration
