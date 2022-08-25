@@ -32,7 +32,7 @@ author_profile: true
 </ul>
 
 <h3> <i>Peer-reviewed Conference Papers</i></h3>
- <ul>
+<ul>
    <li><strong>Zhu, R.</strong>, Janowicz, K., Mai, G., Cai, L., and Shi, M. (2022):<a href="https://agile-giss.copernicus.org/articles/3/21/2022/"> COVID-Forecast-Graph: An open knowledge graph for consolidating COVID-19 forecasts and economic indicators via place and time</a>. AGILE GIScience Ser., 3, 21.</li>
 
    <li>Janowicz, K., <strong>Zhu, R.</strong>, Verstegen, J., McKenzie, G., Martins, B., and Cai, L. (2022):<a href="https://agile-giss.copernicus.org/articles/3/7/2022/"> Six GIScience ideas that must die</a>. AGILE GIScience Ser., 3, 7.</li>
@@ -84,19 +84,19 @@ author_profile: true
    <li><strong>Zhu, R.</strong>, Janowicz, K., Yan, B., and Hu, Y.(2016). <a href="http://geog.ucsb.edu/~zhu/papers/GIScience2016_KobaniSIG.pdf">Which Kobani? A sase study on the role of spatial statistics and semantics for coreference resolution across gazetteers</a>. <i>In: GIScience 2016 Short Paper Proceedings. Ninth International Conference on Geographic Information Science </i>. Montreal, Canada.</li>
    
    <li>Gao, S., <strong>Zhu, R.</strong>, and Mai, G. (2016). <a href="http://geog.ucsb.edu/~zhu/papers/GIScience2016_SpatiotemporalHotspot.pdf">Identifying local spatiotemporal autocorrelation patterns of taxi pick-ups and drop-offs</a>. <i>In: GIScience 2016 Short Paper Proceedings. Ninth International Conference on Geographic Information Science</i>. Montreal, Canada.  </li>
-  </ul>
+</ul>
 
- <h3> <i>Peer-reviewed Book Chapters</i></h3>
-   <ul>
-	<li><strong>Zhu, R.</strong> (2021). <a href="https://gistbok.ucgis.org/bok-topics/directional-operations">Directional operations</a>. <i>The Geographic Information Science & Technology Body of Knowledge</i>.</li>
-	<li>Janowicz, K., McKenzie, G., Hu, Y., <strong>Zhu, R. </strong>, and Gao, S. (2018): <a href="https://geog.ucsb.edu/~jano/ussss.pdf">Using semantic signatures for social sensing in urban environments</a>. <i>Mobility Patterns, Big Data and Transport Analytics</i>. </li>
-   </ul>
+<h3> <i>Peer-reviewed Book Chapters</i></h3>
+<ul>
+   <li><strong>Zhu, R.</strong> (2021). <a href="https://gistbok.ucgis.org/bok-topics/directional-operations">Directional operations</a>. <i>The Geographic Information Science & Technology Body of Knowledge</i>.</li>
+   <li>Janowicz, K., McKenzie, G., Hu, Y., <strong>Zhu, R. </strong>, and Gao, S. (2018): <a href="https://geog.ucsb.edu/~jano/ussss.pdf">Using semantic signatures for social sensing in urban environments</a>. <i>Mobility Patterns, Big Data and Transport Analytics</i>. </li>
+</ul>
 
 <h3> <i>Workshop/Symposium Short Papers & Extended Abstracts</i></h3>
-   <ul>
-	<li><strong>Zhu, R.</strong> (2019). Position paper on spatial data science. <i>2019 Spatial Data Science Symposium</i>, December 9-11, 2019, Santa Barbara, CA.</li>
-    <li><strong>Zhu, R.</strong> (2019). A high-order statistical approach to understand urban structures. <i>2019 Location-based Big Data Symposium, in conjunction with the 29th International Cartographic Conference</i>, July 15-20, 2019, Tokyo, Japan.</li>
-    <li><strong>Zhu, R.</strong>, and Janowicz, K. (2018). Adopting semantic signatures to quantify the uncertainty of volunteered geographic Information. <i>13th International Symposium of Spatial Accuracy</i>, May 21-25, 2018, Beijing, China. <br /><font color='blue'><b> * Best Student Presentation Award</b> </font></li>            
-    <li><strong>Zhu, R.</strong>, and Janowicz, K. (2018). Quantifying semantic uncertainties of volunteered geographic information to understand human travel behaviors. <i>15th International Conference on Travel Behavior Research</i>, July 15-20, 2018, Santa Barbara, CA, USA.</li> 
-    <li><strong>Zhu, R.</strong>, Janowicz, K., and Gao, S. (2017). Quantifying the attractiveness of destinations for modeling long distance travel patterns. <i>NSF Mobility Science Workshop</i>, May 11-12, 2017, Columbus, OH, USA.</li>       
-  </ul>
+<ul>
+   <li><strong>Zhu, R.</strong> (2019). Position paper on spatial data science. <i>2019 Spatial Data Science Symposium</i>, December 9-11, 2019, Santa Barbara, CA.</li>
+   <li><strong>Zhu, R.</strong> (2019). A high-order statistical approach to understand urban structures. <i>2019 Location-based Big Data Symposium, in conjunction with the 29th International Cartographic Conference</i>, July 15-20, 2019, Tokyo, Japan.</li>
+   <li><strong>Zhu, R.</strong>, and Janowicz, K. (2018). Adopting semantic signatures to quantify the uncertainty of volunteered geographic Information. <i>13th International Symposium of Spatial Accuracy</i>, May 21-25, 2018, Beijing, China.<font color='blue'><b> * Best Student Presentation Award</b> </font></li>            
+   <li><strong>Zhu, R.</strong>, and Janowicz, K. (2018). Quantifying semantic uncertainties of volunteered geographic information to understand human travel behaviors. <i>15th International Conference on Travel Behavior Research</i>, July 15-20, 2018, Santa Barbara, CA, USA.</li> 
+   <li><strong>Zhu, R.</strong>, Janowicz, K., and Gao, S. (2017). Quantifying the attractiveness of destinations for modeling long distance travel patterns. <i>NSF Mobility Science Workshop</i>, May 11-12, 2017, Columbus, OH, USA.</li>       
+</ul>
