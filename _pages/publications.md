@@ -62,7 +62,7 @@ author_profile: true
 
    <li>Shi, M., Janowicz, K., Cai, L., Mai, G., and <strong>Zhu, R.</strong> (2021): <a href="https://agile-giss.copernicus.org/articles/2/14/2021/agile-giss-2-14-2021.pdf">A socially aware Huff model for destination choice in nature-based tourism</a>. In: Proceedings of AGILE 2021. June 8 - 11, 2021, Crete, Greece.</li>
 
-   <li>Mai, G., Janowicz, K.,  Yan, B., <strong>Zhu, R.</strong>, Cai, L., and Lao, N. (2020): <a href="https://arxiv.org/abs/2003.00824">Multi-scale representation learning for spatial feature distributions using grid cells</a>. <i>In: Proceedings of International Conference on Learning Representations (ICLR 2020)</i>. April 26 - 30, 2020, Addis Ababa, Ethiopia.<!--  <font color='blue'><b>* Spotlight Paper</b></font></li> -->
+   <li>Mai, G., Janowicz, K.,  Yan, B., <strong>Zhu, R.</strong>, Cai, L., and Lao, N. (2020): <a href="https://arxiv.org/abs/2003.00824">Multi-scale representation learning for spatial feature distributions using grid cells</a>. <i>In: Proceedings of International Conference on Learning Representations (ICLR 2020)</i>. April 26 - 30, 2020, Addis Ababa, Ethiopia. <font color='blue'><b>* Spotlight Paper</b></font></li> 
 
    <li><strong>Zhu, R.</strong>,  McKenzie, G., and Janowicz, K. (2019): <a href ="http://geog.ucsb.edu/~zhu/papers/road2place.pdf">Are streets indicative of place types?</a> <i>In: Proceedings of Geographical and Cultural Aspects of Geoinformation: Issues and Solutions</i>, June 17 - 20, 2019, Limassol, Cyprus.</li>
 
