@@ -29,10 +29,11 @@ I received my Ph.D. from the [Department of Geography](https://www.geog.ucsb.edu
 ======
 I am recruiting self-motived Master/PhD students who are interested at topics including GIScience, spatial (geographical) data science, GeoAI, and geospatial knowledge graphs. In the upcoming academic year of 2022-2023, several fellowships can be applied under my supervision: 
 
-* [SWDTP (ESRC) application deadline: 13 January 2023](https://www.swdtp.ac.uk/prospective-students-and-fellows/how-do-i-apply-for-a-studentship/). There are two pathways to choose if you want to study under my supervision: 
-	* Advanced Quantitative Methods +3 (have a Master degree) or 1+3 (have no Master degree)
-	* Human Geography +3 (have a Master degree) or 1+3 (have no Master degree)
-	[Note: there might be another pathway about Sociotechnical Futures & Digital Methods being approved soon.]
+* [SWDTP (ESRC) application deadline: 13 January 2023](http://www.bristol.ac.uk/fssl/swdtp/apply/). There are two pathways to choose if you want to study under my supervision: 
+	* [Advanced Quantitative Methods](https://www.swdtp.ac.uk/prospective-students-and-fellows/aqm/) +3 (have a Master degree) or 1+3 (have no Master degree)
+	* [Human Geography](http://www.bristol.ac.uk/study/postgraduate/2023/ssl/phd-geographical-sciences-human-geography/) +3 (have a Master degree) or 1+3 (have no Master degree)
+	
+[Note: there might be another pathway about Sociotechnical Futures & Digital Methods being approved soon.]
 * [UoB Scholarship application deadline: 21 February 2023](https://www.bristol.ac.uk/geography/courses/postgraduate/scholarships/#UOBHG). Students who are specifically interested at the following topics are encouraged to apply: 
 	* Economic, political, and social justice
 	* Environment / sustainability /climate change
@@ -40,7 +41,8 @@ I am recruiting self-motived Master/PhD students who are interested at topics in
 	* Migration and mobilities
 	* Sociodigital / data science / technology
 * [China Scholarship Council (CSC) application deadline: 01 December 2022](http://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/) 
-	[Note: 01 December 2022 is the University deadline to submit your application. Once you have received the offer from the University, you must apply directly to CSC for the scholarship by Friday 31 March 2023]
+
+[Note: 01 December 2022 is the University deadline to submit your application. Once you have received the offer from the University, you must apply directly to CSC for the scholarship by Friday 31 March 2023]
 
 No matter which scholarship you are interested to apply, I recommend you to contact me first by sending (1) your CV and (2) a brief reseach statement (no need to be the final version) to rui.zhu@bristol.ac.uk. Also please be mindful of the deadline. They are the dates to submit your final application. You should contact me at least four weeks before that so that I can help you go through the process if you are qualified. 
 
