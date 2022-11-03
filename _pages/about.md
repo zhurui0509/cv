@@ -25,7 +25,7 @@ Background
 ======
 I received my Ph.D. from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/) and a B.S. degree in Information Management from the School of Information Management, Shanxi University of Finance and Economics, China. I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/) and a summer data science intern at the [Geospatial Science and Human Security Division, Oak Ridge National Laboratory, US](https://www.ornl.gov/gshsd). 
 
-<span style="color:red">Prospective Students/Scholars</span>
+<span>Prospective Students/Scholars</span>
 ======
 I am recruiting self-motived Master/PhD students who are interested at topics including GIScience, spatial (geographical) data science, GeoAI, and geospatial knowledge graphs. In the upcoming academic year of 2022-2023, several fellowships can be applied under my supervision: 
 
