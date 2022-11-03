@@ -25,6 +25,26 @@ Background
 ======
 I received my Ph.D. from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/) and a B.S. degree in Information Management from the School of Information Management, Shanxi University of Finance and Economics, China. I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/) and a summer data science intern at the [Geospatial Science and Human Security Division, Oak Ridge National Laboratory, US](https://www.ornl.gov/gshsd). 
 
+<span style="color:red">Prospective Students/Scholars</span>
+======
+I am recruiting self-motived Master/PhD students who are interested at topics including GIScience, spatial (geographical) data science, GeoAI, and geospatial knowledge graphs. In the upcoming academic year of 2022-2023, several fellowships can be applied under my supervision: 
+
+* [SWDTP (ESRC) application deadline: 13 January 2023](https://www.swdtp.ac.uk/prospective-students-and-fellows/how-do-i-apply-for-a-studentship/). There are two pathways to choose if you want to study under my supervision: 
+	* Advanced Quantitative Methods +3 (have a Master degree) or 1+3 (have no Master degree)
+	* Human Geography +3 (have a Master degree) or 1+3 (have no Master degree)
+	[Note: there might be another pathway about Sociotechnical Futures & Digital Methods being approved soon.]
+* [UoB Scholarship application deadline: 21 February 2023](https://www.bristol.ac.uk/geography/courses/postgraduate/scholarships/#UOBHG). Students who are specifically interested at the following topics are encouraged to apply: 
+	* Economic, political, and social justice
+	* Environment / sustainability /climate change
+	* Health and social care
+	* Migration and mobilities
+	* Sociodigital / data science / technology
+* [China Scholarship Council (CSC) application deadline: 01 December 2022](http://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/) 
+	[Note: 01 December 2022 is the University deadline to submit your application. Once you have received the offer from the University, you must apply directly to CSC for the scholarship by Friday 31 March 2023]
+
+No matter which scholarship you are interested to apply, I recommend you to contact me first by sending (1) your CV and (2) a brief reseach statement (no need to be the final version) to rui.zhu@bristol.ac.uk. Also please be mindful of the deadline. They are the dates to submit your final application. You should contact me at least four weeks before that so that I can help you go through the process if you are qualified. 
+
+
 <span style="color:red">News</span>
 ======
 * [October 16, 2022] The [1st ACM SIGSPATIAL Workshop on Geospatial Knowledge Graphs (GeoKG 2022)](https://geokg-sigspatial.github.io/geokg2022/) will be held on Nov. 1st at Seattle. This year, we have a very exciting program incluing four accepted papers and one Keynote talk by [Prof. Craig A. Knoblock](https://viterbi.usc.edu/directory/faculty/Knoblock/Craig). 
