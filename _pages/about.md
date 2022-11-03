@@ -27,7 +27,7 @@ I received my Ph.D. from the [Department of Geography](https://www.geog.ucsb.edu
 
 <span>Prospective Students/Scholars</span>
 ======
-I am recruiting talented and self-motived Master/PhD students who are interested at topics including GIScience, spatial (geographical) data science, GeoAI, and geospatial knowledge graphs. In the upcoming academic year of 2022-2023, several fellowships can be applied under my supervision: 
+I am recruiting talented and self-motived Master/PhD students whose research interests align with mine. In the upcoming academic year of 2022-2023, several fellowships can be applied under my supervision: 
 
 * [SWDTP (ESRC) application deadline: 13 January 2023](http://www.bristol.ac.uk/fssl/swdtp/apply/). There are two pathways to choose if you want to study under my supervision. (Note that there might be another pathway about Sociotechnical Futures & Digital Methods being approved soon.)
 	* [Advanced Quantitative Methods](https://www.swdtp.ac.uk/prospective-students-and-fellows/aqm/) +3 (have a Master degree) or 1+3 (have no Master degree)
