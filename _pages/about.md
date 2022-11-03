@@ -41,7 +41,7 @@ I am recruiting talented and self-motived Master/PhD students whose research int
 	* Sociodigital / data science / technology
 * [China Scholarship Council (CSC) application deadline: 01 December 2022](http://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/) (Note that 01 December 2022 is the University deadline to submit your application. Once you have received the offer from the University, you must apply directly to CSC for the scholarship by Friday 31 March 2023)
 
-No matter which scholarship you are interested to apply, **I highly recommend you to contact me first by sending (1) your CV and (2) a brief reseach statement (no need to be the final version) to rui.zhu@bristol.ac.uk**. Also please be mindful of the deadline. They are the dates to submit your final application. You should contact me at least four weeks before that so that I can help you go through the process if you are qualified. 
+No matter which scholarship you are interested to apply, or if you are unsure, **I highly recommend you to contact me first by sending (1) your CV and (2) a brief reseach statement (no need to be the final version) to rui.zhu@bristol.ac.uk**. Also please be mindful of the deadline. They are the dates to submit your final application. You should contact me at least four weeks before that so that I can help you go through the process if you are qualified. 
 
 Meanwhile, I am also considering visiting scholars who are willing to work with me at University of Bristol. Contact me if you are interested. 
 
