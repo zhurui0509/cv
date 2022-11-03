@@ -45,7 +45,7 @@ I am recruiting self-motived Master/PhD students who are interested at topics in
 No matter which scholarship you are interested to apply, I recommend you to contact me first by sending (1) your CV and (2) a brief reseach statement (no need to be the final version) to rui.zhu@bristol.ac.uk. Also please be mindful of the deadline. They are the dates to submit your final application. You should contact me at least four weeks before that so that I can help you go through the process if you are qualified. 
 
 
-<span style="color:red">News</span>
+<span>News</span>
 ======
 * [October 16, 2022] The [1st ACM SIGSPATIAL Workshop on Geospatial Knowledge Graphs (GeoKG 2022)](https://geokg-sigspatial.github.io/geokg2022/) will be held on Nov. 1st at Seattle. This year, we have a very exciting program incluing four accepted papers and one Keynote talk by [Prof. Craig A. Knoblock](https://viterbi.usc.edu/directory/faculty/Knoblock/Craig). 
 * [October 16, 2022] A joint [White Paper on Locational Information and the Public Interest](https://www.aag.org/wp-content/uploads/1900/09/2022-White-Paper-on-Locational-Information-and-the-Public-Interest.pdf) is now released. It is part of the [GeoEthics Program](https://www.aag.org/program/locational-information-and-the-public-interest/) organized by [AAG](https://www.aag.org/). 
