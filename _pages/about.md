@@ -43,7 +43,7 @@ I am recruiting talented and self-motived Master/PhD students whose research int
 
 No matter which scholarship you are interested to apply, or if you are unsure, **I highly recommend you to contact me first by sending (1) your CV and (2) a brief reseach statement (no need to be the final version) to rui.zhu@bristol.ac.uk**. Also please be mindful of the deadline. They are the dates to submit your final application. You should contact me at least four weeks before that so that I can help you go through the process if you are qualified. 
 
-Meanwhile, I am also considering visiting scholars who are willing to work with me at University of Bristol. Contact me if you are interested. 
+Meanwhile, I am also considering visiting scholars who are willing to work with me at the University of Bristol. Contact me if you are interested. 
 
 
 <span>News</span>
