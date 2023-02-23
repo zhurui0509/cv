@@ -12,7 +12,7 @@ author_profile: true
 * Office address: 
 
   <address>
-        &nbsp;&nbsp;&nbsp;     Room 2.21n
+        &nbsp;&nbsp;&nbsp;     Room 2.21n<br /> 
         &nbsp;&nbsp;&nbsp;     School of Geographical Sciences<br /> 
         &nbsp;&nbsp;&nbsp;     University of Bristol<br /> 
         &nbsp;&nbsp;&nbsp;     University Road, Bristol<br />
