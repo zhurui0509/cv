@@ -54,10 +54,6 @@ Meanwhile, I am also considering visiting scholars who are willing to work with 
 * [October, 2022] The [1st ACM SIGSPATIAL Workshop on Geospatial Knowledge Graphs (GeoKG 2022)](https://geokg-sigspatial.github.io/geokg2022/) will be held on Nov. 1st at Seattle. This year, we have a very exciting program incluing four accepted papers and one Keynote talk by [Prof. Craig A. Knoblock](https://viterbi.usc.edu/directory/faculty/Knoblock/Craig). 
 * [October, 2022] A joint [White Paper on Locational Information and the Public Interest](https://www.aag.org/wp-content/uploads/1900/09/2022-White-Paper-on-Locational-Information-and-the-Public-Interest.pdf) is now released. It is part of the [GeoEthics Program](https://www.aag.org/program/locational-information-and-the-public-interest/) organized by [AAG](https://www.aag.org/). 
 * [October, 2022] Our paper: ["Knowledge Explorer: Exploring the 12-Billion-Statement KnowWhereGraph Using Faceted Search"](https://dl.acm.org/doi/10.1145/3557915.3561009) won the best demo paper at the [30th ACM SIGSPATIAL 2022](https://sigspatial2022.sigspatial.org/).
-<!-- * [October, 2022] Our paper: ["Towards General-Purpose Representation Learning of Polygonal Geometries"](https://arxiv.org/abs/2209.15458) is accepted at the Journal of GeoInformatica.
-* [September, 2022] Our paper: ["HyperQuaternionE: A hyperbolic embedding model for qualitative spatial and temporal reasoning"](https://trebuchet.public.springernature.app/get_content/9132402a-dde0-44c5-ab56-5f5f04978150) is now published in the Journal of GeoInformatica.
-* [September, 2022] Our paper: ["Automatically rediscover conceptual neighborhood 
-by using machine learning methods"](https://drops.dagstuhl.de/opus/volltexte/2022/16888/pdf/LIPIcs-COSIT-2022-3.pdf) will be presented at COSIT 2022 (Kobe, Japan) in the Best Paper track.  -->
 
 
 <!-- * [August, 2022] Paper deadline for GeoKG 2022 is extended to August 29th, 2022. For more info, click [here](https://geokg-sigspatial.github.io/geokg2022/). --> 
