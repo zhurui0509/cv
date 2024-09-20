@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Rui Zhu, a Lecturer (Assistant Professor) at the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (UK). I am a geographer by training with a background in data science (so you can call me a spatial data scientist). Broadly speaking, I study how humans and machines organize spatial knowledge, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning and spatial statistics) approaches to address geospatial challenges such as geospatial data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, including urban studies, global health, environmental modeling, as well as humanitarian relief.
+Hi there! I am Rui Zhu, a Lecturer (Assistant Professor) at the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (the UK). I am a geographer by training with a background in data science (so you can call me a spatial data scientist). Broadly speaking, I study how humans and machines organize spatial knowledge, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning and spatial statistics) approaches to address geospatial challenges such as data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, including urban studies, public health, environmental modeling, as well as humanitarian relief.
 
 Research Interests
 ======
@@ -23,37 +23,25 @@ Research Interests
 
 Background 
 ======
-I received my Ph.D. from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/) and a B.S. degree in Information Management from the School of Information Management, Shanxi University of Finance and Economics, China. I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/) and a data science intern at the [Geospatial Science and Human Security Division, Oak Ridge National Laboratory, US](https://www.ornl.gov/gshsd). 
+I've received my Ph.D. in Geography from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/). I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/) and a Data Science Intern at the [Geospatial Science and Human Security Division, Oak Ridge National Laboratory, US](https://www.ornl.gov/gshsd). 
 
 <span>Prospective Students/Scholars</span>
 ======
-I am recruiting talented and self-motived Master/PhD students whose research interests align with mine. In the upcoming academic year of 2022-2023, several fellowships can be applied under my supervision: 
+I am the Programme Director for [MSc in Geographic Data Science and Spatial Analytics](https://www.bristol.ac.uk/study/postgraduate/taught/msc-geographic-data-science-and-spatial-analytics/). Students who want to advance their knowledge and skills with most advanced machine learning and AI techniques, and to learn how to apply them to real world problems, please apply for this program.  
 
-* [SWDTP (ESRC) application deadline: 13 January 2023](http://www.bristol.ac.uk/fssl/swdtp/apply/). There are two pathways to choose if you want to study under my supervision. (Note that there might be another pathway about Sociotechnical Futures & Digital Methods being approved soon.)
-	* [Advanced Quantitative Methods](https://www.swdtp.ac.uk/prospective-students-and-fellows/aqm/) +3 (have a Master degree) or 1+3 (have no Master degree)
-	* [Human Geography](http://www.bristol.ac.uk/study/postgraduate/2023/ssl/phd-geographical-sciences-human-geography/) +3 (have a Master degree) or 1+3 (have no Master degree)
-	
-* [UoB Scholarship application deadline: 21 February 2023](https://www.bristol.ac.uk/geography/courses/postgraduate/scholarships/#UOBHG). Students who are specifically interested at the following topics are encouraged to apply: 
-	* Economic, political, and social justice
-	* Environment / sustainability /climate change
-	* Health and social care
-	* Migration and mobilities
-	* Sociodigital / data science / technology
-* [China Scholarship Council (CSC) application deadline: 01 December 2022](http://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/) (Note that 01 December 2022 is the University deadline to submit your application. Once you have received the offer from the University, you must apply directly to CSC for the scholarship by Friday 31 March 2023)
-
-No matter which scholarship you are interested to apply, or if you are unsure, **I highly recommend you to contact me first by sending (1) your CV and (2) a brief reseach statement (no need to be the final version) to rui.zhu@bristol.ac.uk**. Also please be mindful of the deadline. They are the dates to submit your final application. You should contact me at least four weeks before that so that I can help you go through the process if you are qualified. 
+I am the Director for PhD in Geographic Data Science, at the University of Bristol. I also serve as the Path Lead of Advanced Quantitative Methods at ESRC-funded [South West Doctoral Training Partnership](https://www.swdtp.ac.uk/). I am recruiting talented and self-motivated PhD students/Postdoc scholars whose research interests align with mine. Multiple kinds of fellowship could be applied under my supervision. Please keep in touch if you are interested by sending me your CV and proposal. 
 
 Meanwhile, I am also considering visiting scholars who are willing to work with me at the University of Bristol. Contact me if you are interested. 
 
 
-<span>News</span>
+<!-- <span>News</span>
 ======
 * [February, 2023] The [2nd Workshop on Geospatial Knowledge Graphs and Geospatial AI](https://geokg-geoai2023.github.io/) will be colocated with [GIScience2023](https://giscience2023.github.io/). We look forward to seeing you at Leeds, UK! 
 * [February, 2023] The [4th Spatial Data Science Symposium (SDSS2023)](http://sdss2023.spatial-data-science.net/index.html) will be hosted again as a distributed and online event on September 5-6, 2023. McGill University is confirmed as one of the hubs. 
 * [February, 2023] I am serving on multiple program committees in 2023, including [KG4S](https://kg4s.org/) (colocated at [TheWebConf2023](https://www2023.thewebconf.org/)), [ESWC2023](https://2023.eswc-conferences.org/), [CPGIS2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079), [AGILE2023](https://agile-online.org/), [EASM'23](https://ptal-io.github.io/easm2023/), and [LocBigDataAI 2023](https://lbs.icaci.org/locbigdata2023/) (colocated with [ICC2023](https://icc2023.org/)). Look forward to seeing you at these exciting events! 
 * [October, 2022] The [1st ACM SIGSPATIAL Workshop on Geospatial Knowledge Graphs (GeoKG 2022)](https://geokg-sigspatial.github.io/geokg2022/) will be held on Nov. 1st at Seattle. This year, we have a very exciting program incluing four accepted papers and one Keynote talk by [Prof. Craig A. Knoblock](https://viterbi.usc.edu/directory/faculty/Knoblock/Craig). 
 * [October, 2022] A joint [White Paper on Locational Information and the Public Interest](https://www.aag.org/wp-content/uploads/1900/09/2022-White-Paper-on-Locational-Information-and-the-Public-Interest.pdf) is now released. It is part of the [GeoEthics Program](https://www.aag.org/program/locational-information-and-the-public-interest/) organized by [AAG](https://www.aag.org/). 
-* [October, 2022] Our paper: ["Knowledge Explorer: Exploring the 12-Billion-Statement KnowWhereGraph Using Faceted Search"](https://dl.acm.org/doi/10.1145/3557915.3561009) won the best demo paper at the [30th ACM SIGSPATIAL 2022](https://sigspatial2022.sigspatial.org/).
+* [October, 2022] Our paper: ["Knowledge Explorer: Exploring the 12-Billion-Statement KnowWhereGraph Using Faceted Search"](https://dl.acm.org/doi/10.1145/3557915.3561009) won the best demo paper at the [30th ACM SIGSPATIAL 2022](https://sigspatial2022.sigspatial.org/). -->
 
 
 <!-- * [August, 2022] Paper deadline for GeoKG 2022 is extended to August 29th, 2022. For more info, click [here](https://geokg-sigspatial.github.io/geokg2022/). --> 
