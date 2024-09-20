@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Rui Zhu, a Lecturer (Assistant Professor) at the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (the UK). I am a geographer by training with a background in data science (so you can call me a spatial data scientist). Broadly speaking, I study how humans and machines organize spatial knowledge, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning and spatial statistics) approaches to address geospatial challenges such as data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, including urban studies, public health, environmental modeling, as well as humanitarian relief.
+Hi there! I am Rui Zhu, a Lecturer (Assistant Professor) at the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (the UK). I am a geographer by training with a background in data science (so you can call me a Spatial Data Scientist). Broadly speaking, I study how humans and machines organize spatial knowledge, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning and spatial statistics) approaches to address geospatial challenges such as data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, including urban studies, public health, environmental modeling, as well as humanitarian relief.
 
 Research Interests
 ======
@@ -23,15 +23,15 @@ Research Interests
 
 Background 
 ======
-I've received my Ph.D. in Geography from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/). I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/) and a Data Science Intern at the [Geospatial Science and Human Security Division, Oak Ridge National Laboratory, US](https://www.ornl.gov/gshsd). 
+I received my Ph.D. in Geography from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/). I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/) and a Data Science Intern at the [Geospatial Science and Human Security Division, Oak Ridge National Laboratory, US](https://www.ornl.gov/gshsd). 
 
 <span>Prospective Students/Scholars</span>
 ======
-I am the Programme Director for [MSc in Geographic Data Science and Spatial Analytics](https://www.bristol.ac.uk/study/postgraduate/taught/msc-geographic-data-science-and-spatial-analytics/). Students who want to advance their knowledge and skills with most advanced machine learning and AI techniques, and to learn how to apply them to real world problems, please apply for this program.  
+Master Student: I am the Programme Director for [MSc in Geographic Data Science and Spatial Analytics](https://www.bristol.ac.uk/study/postgraduate/taught/msc-geographic-data-science-and-spatial-analytics/). Students who want to advance their knowledge and skills with cutting-edge machine learning and AI techniques, and to learn how to apply them to real world problems, please apply for this program.  
 
-I am the Director for PhD in Geographic Data Science, at the University of Bristol. I also serve as the Path Lead of Advanced Quantitative Methods at ESRC-funded [South West Doctoral Training Partnership](https://www.swdtp.ac.uk/). I am recruiting talented and self-motivated PhD students/Postdoc scholars whose research interests align with mine. Multiple kinds of fellowship could be applied under my supervision. Please keep in touch if you are interested by sending me your CV and proposal. 
+PhD Student: I am the Programme Director for PhD in Geographic Data Science, at the University of Bristol. I also serve as the Path Lead of Advanced Quantitative Methods at ESRC-funded [South West Doctoral Training Partnership](https://www.swdtp.ac.uk/). I am recruiting talented and self-motivated PhD students/Postdoc scholars whose research interests align with mine. Multiple kinds of fellowship could be applied under my supervision. Please keep in touch if you are interested by sending me your CV and proposal. 
 
-Meanwhile, I am also considering visiting scholars who are willing to work with me at the University of Bristol. Contact me if you are interested. 
+Visiting Scholar: Meanwhile, I am also considering visiting scholars who are willing to work with me at the University of Bristol. Contact me if you are interested. 
 
 
 <!-- <span>News</span>

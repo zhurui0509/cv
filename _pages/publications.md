@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  You can find my most updated articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
 
 {% include base_path %}
@@ -15,9 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<h3> <i>Peer-reviewed Journal Papers </i></h3>
+<h3> <i>Selected Peer-reviewed Journal Papers </i></h3>
 <ul>
+   <li>Li, Z., Zhang, X., <strong>Zhu, R.</strong>, Clarke, K. C., Weng, Z., & Zhang, Z. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0022169424009491">Direct kriging: A direct optimization based model with locally varying anisotropy</a>. Journal of Hydrology, 131553.</li>
    <li>Wang, S., Hu, T., Xiao, H., Li, Y., Zhang, C., Ning, H., <strong>Zhu, R.</strong>, Li, Z. &  Ye, X. (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/17538947.2024.2353122">GPT, large language models (LLMs) and generative artificial intelligence (GAI) models in geospatial science: a systematic review</a>. International Journal of Digital Earth, 17(1). </li>
+   <li>Mai, G., Huang, W., Sun, J., Song, S., Mishra, D., Liu, N., ... <strong>Zhu, R.</strong>, & Lao, N. (2024). <a href="https://dl.acm.org/doi/full/10.1145/3653070">On the opportunities and challenges of foundation models for geoai (vision paper)</a>. ACM Transactions on Spatial Algorithms and Systems.</li>
+   <li>Qi, Y., Mai, G., <strong>Zhu, R.</strong>, & Zhang, M. (2023). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13064">EVKG: An interlinked and interoperable electric vehicle knowledge graph for smart transportation system</a>. Transactions in GIS, 27(4), 949-974.</li>
+   <li>Mai, G., Jiang, C., Sun, W., <strong>Zhu, R.</strong>, Xuan, Y., Cai, L., ... & Lao, N. (2023). <a href="https://link.springer.com/article/10.1007/s10707-022-00481-2">Towards general-purpose representation learning of polygonal geometries</a>. GeoInformatica, 27(2), 289-340.</li>
+   <li>Cai, L., Janowicz, K., <strong>Zhu, R.</strong>, Mai, G., Yan, B., & Wang, Z. (2023). <a href="https://link.springer.com/article/10.1007/s10707-022-00469-y">HyperQuaternionE: A hyperbolic embedding model for qualitative spatial and temporal reasoning</a>. GeoInformatica, 27(2), 159-197.</li>
+   <li>Li, W., Wang, S., Chen, X., Tian, Y., Gu, Z., Lopez-Carr, A., ... & <strong>Zhu, R</strong>. (2023). <a href="https://www.mdpi.com/2220-9964/12/3/112">Geographvis: a knowledge graph and geovisualization empowered cyberinfrastructure to support disaster response and humanitarian aid</a>. ISPRS International Journal of Geo-Information, 12(3), 112.</li>
    <li><strong>Zhu, R.</strong>, Janowicz, K., Cai, L., & Mai, G. (2022). <a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2022.2092115">Reasoning over higher-order qualitative spatial relations via spatially explicit neural networks</a>. International Journal of Geographical Information Science, 1-32.</li>
    <li>Janowicz, K., Hitzler, P., Li, W., Rehberger, D., Schildhauer, M., <strong>Zhu, R.</strong>, Shimizu, C., Fisher, C.K., Cai, L., Mai, G., Zalewski, J., Zhou, L., Stephen, S., Gonzalez, S., Mecum, B., Lopez-Carr A.,  Schroeder, A., Smith, D., Wright, D., Wang, S., Tian, Y., Liu, Z., Shi, M., D’Onofrio, A., Gu, Z., Currier, K., (2022).<a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.12043"> Know, Know Where, KnowWhereGraph: A densely connected, cross‐domain knowledge graph and geo‐enrichment service stack for applications in environmental intelligence</a>. AI Magazine, 43(1), pp.30-39.</li>
    <li>Mai, G., Janowicz, K., Hu, Y., Gao, S., Yan, B., <strong>Zhu, R.</strong>, Cai, L., and Lao, N. (2021). <a href="https://arxiv.org/abs/2111.04006">A review of location encoding for GeoAI: Methods and applications</a>. International Journal of Geographic Information Science, 1-35. </li>
@@ -33,8 +39,9 @@ author_profile: true
 	<li>Karimi, H. A., Jiang, M., and <strong>Zhu, R</strong>. (2013). <a href="http://www.nrcresearchpress.com/doi/abs/10.5623/cig2013-052#.W6-7J3VKhhE">Pedestrian navigation services: challenges and current trends.</a> <i>Geomatica </i>,67(4), 259-271.</li>
 </ul>
 
-<h3> <i>Peer-reviewed Conference Papers</i></h3>
+<h3> <i>Selected Peer-reviewed Conference Papers</i></h3>
 <ul>
+   <li>Shi, M., Currier, K., Liu, Z., Janowicz, K., Wiedemann, N., Verstegen, J., ... <strong>Zhu, R.,</strong> & Mai, G. (2023). <a href="https://agile-giss.copernicus.org/articles/4/42/2023/">Thinking geographically about AI sustainability</a>. AGILE: GIScience Series, 4, 42.</li>
    <li><strong>Zhu, R.</strong>, Janowicz, K., Mai, G., Cai, L., and Shi, M. (2022):<a href="https://agile-giss.copernicus.org/articles/3/21/2022/"> COVID-Forecast-Graph: An open knowledge graph for consolidating COVID-19 forecasts and economic indicators via place and time</a>. AGILE GIScience Ser., 3, 21.</li>
 
    <li>Janowicz, K., <strong>Zhu, R.</strong>, Verstegen, J., McKenzie, G., Martins, B., and Cai, L. (2022):<a href="https://agile-giss.copernicus.org/articles/3/7/2022/"> Six GIScience ideas that must die</a>. AGILE GIScience Ser., 3, 7.</li>
@@ -88,17 +95,20 @@ author_profile: true
    <li>Gao, S., <strong>Zhu, R.</strong>, and Mai, G. (2016). <a href="http://geog.ucsb.edu/~zhu/papers/GIScience2016_SpatiotemporalHotspot.pdf">Identifying local spatiotemporal autocorrelation patterns of taxi pick-ups and drop-offs</a>. <i>In: GIScience 2016 Short Paper Proceedings. Ninth International Conference on Geographic Information Science</i>. Montreal, Canada.  </li>
 </ul>
 
-<h3> <i>Peer-reviewed Book Chapters</i></h3>
+<h3> <i>Selected Peer-reviewed Book Chapters</i></h3>
 <ul>
+   <li><strong>Zhu, R.</strong> (2024). <a href="https://doi.org/10.1002/9781118786352.wbieg2207"> Geospatial Knowledge Graphs</a>. In International Encyclopedia of Geography: People, the Earth, Environment and Technology. Wiley.</li>
+   <li>Gao, S., Rao, J., Liang, Y., Kang, Y., Zhu, J., & <strong>Zhu, R.</strong> (2023). <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003308423-4/geoai-methodological-foundations-deep-neural-networks-knowledge-graphs-song-gao-jinmeng-rao-yunlei-liang-yuhao-kang-jiawei-zhu-rui-zhu">GeoAI Methodological Foundations: Deep Neural Networks and Knowledge Graphs</a>. In Handbook of Geospatial Artificial Intelligence (pp. 45-74). CRC Press.</li>
+   <li>Janowicz, K., Currier, K., Shimizu, C., <strong>Zhu, R.</strong>, Shi, M., Fisher, C. K., ... & Stephen, S. (2023). <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003308423-21/fast-forward-data-insight-geographic-knowledge-graphs-applications-krzysztof-janowicz-kitty-currier-cogan-shimizu-rui-zhu-meilin-shi-colby-fisher-dean-rehberger-pascal-hitzler-zilong-liu-shirly-stephen">Fast Forward from Data to Insight:(Geographic) Knowledge Graphs and Their Applications</a>. In Handbook of Geospatial Artificial Intelligence (pp. 411-426). CRC Press.</li>
    <li><strong>Zhu, R.</strong> (2021). <a href="https://gistbok.ucgis.org/bok-topics/directional-operations">Directional operations</a>. <i>The Geographic Information Science & Technology Body of Knowledge</i>.</li>
    <li>Janowicz, K., McKenzie, G., Hu, Y., <strong>Zhu, R. </strong>, and Gao, S. (2018): <a href="https://geog.ucsb.edu/~jano/ussss.pdf">Using semantic signatures for social sensing in urban environments</a>. <i>Mobility Patterns, Big Data and Transport Analytics</i>. </li>
 </ul>
 
-<h3> <i>Workshop/Symposium Short Papers & Extended Abstracts</i></h3>
+<!-- <h3> <i>Workshop/Symposium Short Papers & Extended Abstracts</i></h3>
 <ul>
    <li><strong>Zhu, R.</strong> (2019). Position paper on spatial data science. <i>2019 Spatial Data Science Symposium</i>, December 9-11, 2019, Santa Barbara, CA.</li>
    <li><strong>Zhu, R.</strong> (2019). A high-order statistical approach to understand urban structures. <i>2019 Location-based Big Data Symposium, in conjunction with the 29th International Cartographic Conference</i>, July 15-20, 2019, Tokyo, Japan.</li>
    <li><strong>Zhu, R.</strong>, and Janowicz, K. (2018). Adopting semantic signatures to quantify the uncertainty of volunteered geographic Information. <i>13th International Symposium of Spatial Accuracy</i>, May 21-25, 2018, Beijing, China.<font color='blue'><b> * Best Student Presentation Award</b> </font></li>            
    <li><strong>Zhu, R.</strong>, and Janowicz, K. (2018). Quantifying semantic uncertainties of volunteered geographic information to understand human travel behaviors. <i>15th International Conference on Travel Behavior Research</i>, July 15-20, 2018, Santa Barbara, CA, USA.</li> 
    <li><strong>Zhu, R.</strong>, Janowicz, K., and Gao, S. (2017). Quantifying the attractiveness of destinations for modeling long distance travel patterns. <i>NSF Mobility Science Workshop</i>, May 11-12, 2017, Columbus, OH, USA.</li>       
-</ul>
+</ul> -->
