@@ -237,14 +237,14 @@ defaults:
   #     share: true
   #     comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single
-      #layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: single
+  #     #layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
