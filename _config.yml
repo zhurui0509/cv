@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Rui Zhu"
 title_separator          : "-"
 name                     : &name "Rui Zhu"
-description              : &description "Lecturer (Assistant Professor), School of Geographical Sciences, University of Bristol"
+description              : &description "Senior Lecturer, School of Geographical Sciences, University of Bristol"
 url                      : "https://ruizhugeographer.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zhurui0509"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Rui Zhu"
   avatar           : "profile.jpg"
-  bio              : "Lecturer (Assistant Professor), School of Geographical Sciences, University of Bristol"
+  bio              : "Senior Lecturer, School of Geographical Sciences, University of Bristol"
   location         : "Bristol, UK"
   employer         :
   pubmed           : 
