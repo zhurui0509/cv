@@ -13,7 +13,9 @@ name                     : &name "Rui Zhu"
 description              : &description "Senior Lecturer, School of Geographical Sciences, University of Bristol"
 url                      : "https://ruizhugeographer.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/zhurui0509"
+repository               : "zhurui0509/cv"
+theme                    : # explicitly disabled - github-pages defaults to
+                            # jekyll-theme-primer otherwise, which we don't use
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,28 +83,30 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Rui Zhu"
+  initials         : "RZ"
   avatar           : "profile.jpg"
   bio              : "Senior Lecturer, School of Geographical Sciences, University of Bristol"
   location         : "Bristol, UK"
+  coordinates      : "51.4545° N, 2.5879° W"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7ZN8prIAAAAJ&hl=en"
   email            : "rui.zhu@bristol.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://ruizhugeographer.com"
+  uri              : # left blank on purpose - was pointing back at this same site
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "rui-zhu-55250374"
   orcid            : #"https://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -119,9 +123,7 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -132,18 +134,17 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
   - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
   - config
+  - dev
   - gulpfile.js
   - log
   - node_modules
-  - package.json
+  - serve.sh
   - tmp
   - vendor
 keep_files:
@@ -175,15 +176,11 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  team:
+    output: false
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
@@ -207,35 +204,13 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: true
-  # _teaching
+      layout: minimal
+  # _projects
   - scope:
       path: ""
-      type: teaching
+      type: projects
     values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+      layout: project
   # _talks
   # - scope:
   #     path: ""

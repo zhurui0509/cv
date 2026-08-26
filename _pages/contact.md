@@ -1,28 +1,27 @@
 ---
+layout: minimal
 permalink: /contact/
 title: "Contact"
-author_profile: true
-<!-- redirect_from: 
-  - /md/
-  - /markdown.html -->
+tagline: "Get in touch."
 ---
 
-* Email: rui.zhu [at] bristol.ac.uk 
-* Twitter: [RuiZhuRich](https://twitter.com/RuiZhuRich)
-* Office address: 
+<div class="contact-grid">
+  <div class="contact-item">
+    <span class="label">Email</span>
+    <a href="mailto:rui.zhu@bristol.ac.uk">rui.zhu@bristol.ac.uk</a>
+  </div>
 
-  <address>
-        &nbsp;&nbsp;&nbsp;     Room 2.21n<br /> 
-        &nbsp;&nbsp;&nbsp;     School of Geographical Sciences<br /> 
-        &nbsp;&nbsp;&nbsp;     University of Bristol<br /> 
-        &nbsp;&nbsp;&nbsp;     University Road, Bristol<br />
-        &nbsp;&nbsp;&nbsp;     BS8 1SS, United Kingdom 
-  </address> 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.21n, School of Geographical Sciences,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Bristol,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University Road, Bristol,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BS8 1SS, United Kingdom -->
+  <div class="contact-item">
+    <span class="label">LinkedIn</span>
+    <a href="https://www.linkedin.com/in/rui-zhu-55250374/" target="_blank" rel="noopener">linkedin.com/in/rui-zhu-55250374</a>
+  </div>
 
-
-
-
+  <div class="contact-item">
+    <span class="label">Office</span>
+    <address>
+      Room 2.21n, School of Geographical Sciences<br>
+      University of Bristol, University Road<br>
+      Bristol, BS8 1SS, United Kingdom
+    </address>
+  </div>
+</div>

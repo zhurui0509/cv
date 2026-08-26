@@ -1,0 +1,18 @@
+---
+---
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+{% include head-minimal.html %}
+<body>
+  <div class="shell">
+    {% include identity-rail.html %}
+
+    <main>
+      <p class="eyebrow">{{ page.title }}</p>
+      {% if page.tagline %}<h2 class="title">{{ page.tagline }}</h2>{% endif %}
+
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>

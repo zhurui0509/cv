@@ -1,0 +1,28 @@
+{% include base_path %}
+
+{% comment %}
+  Renders one project as an image-left / text-right row.
+  Expects a `project` variable in scope (a doc from the `projects` collection).
+{% endcomment %}
+
+<div class="project-row">
+  <img
+    class="project-glyph"
+    src="{% if project.image contains '://' %}{{ project.image }}{% else %}{{ project.image | prepend: base_path }}{% endif %}"
+    alt="">
+  <div class="project-body">
+    <h3><a href="{{ project.url | prepend: base_path }}">{{ project.title }}</a></h3>
+
+    {% if project.subtitle %}
+      <span class="venue">{{ project.subtitle }}</span>
+    {% endif %}
+
+    {{ project.summary | markdownify }}
+
+    {% if project.link %}
+      <a class="more" href="{{ project.link }}" target="_blank" rel="noopener">
+        {{ project.link_text | default: "Learn more" }} &rarr;
+      </a>
+    {% endif %}
+  </div>
+</div>

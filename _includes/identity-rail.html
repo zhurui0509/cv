@@ -1,0 +1,23 @@
+<aside class="rail">
+  <img class="mark" src="/images/profile-avatar.jpg" alt="Photo of {{ site.name }}">
+
+  <div class="identity">
+    <h1><a href="/">{{ site.name }}</a></h1>
+    <p>{{ site.author.bio }}</p>
+    {% if site.author.coordinates %}
+      <p class="coords">{{ site.author.coordinates }}{% if site.author.location %} &mdash; {{ site.author.location }}{% endif %}</p>
+    {% endif %}
+  </div>
+
+  <nav class="tabs" aria-label="Site sections">
+    {% for link in site.data.navigation.main %}
+      <a href="{{ link.url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+    {% endfor %}
+  </nav>
+
+  <div class="rail-links">
+    {% if site.author.email %}<a href="mailto:{{ site.author.email }}">Email</a>{% endif %}
+    {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>{% endif %}
+    {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+  </div>
+</aside>

@@ -1,0 +1,48 @@
+---
+layout: minimal
+title: "Team"
+tagline: ""
+permalink: /team/
+---
+
+<!--
+  HOW TO ADD / REMOVE / REORDER A TEAM MEMBER
+  ----------------------------------------------
+  Each person is one markdown file in the _team/ folder. To add someone,
+  copy an existing file in _team/ (e.g. _team/example-postdoc.md), rename
+  it, and edit its front matter. To remove someone, delete their file. To
+  reorder within a section, change the "order" number (lower shows first).
+  The "category" field controls which section they appear in: postdoc,
+  phd, or alumni.
+-->
+
+{% assign postdocs = site.team | where: "category", "postdoc" | sort: "order" %}
+{% assign phd_students = site.team | where: "category", "phd" | sort: "order" %}
+{% assign alumni = site.team | where: "category", "alumni" | sort: "order" %}
+
+{% if postdocs.size > 0 %}
+<h2>Postdoctoral Scholars</h2>
+<div class="team-grid">
+  {% for person in postdocs %}
+    {% include team-member.html person=person %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if phd_students.size > 0 %}
+<h2>PhD Students</h2>
+<div class="team-grid">
+  {% for person in phd_students %}
+    {% include team-member.html person=person %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if alumni.size > 0 %}
+<h2>Alumni</h2>
+<div class="team-grid">
+  {% for person in alumni %}
+    {% include team-member.html person=person %}
+  {% endfor %}
+</div>
+{% endif %}

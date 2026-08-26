@@ -11,6 +11,17 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# Ruby 3.4+/4.x no longer ships these as default gems, but the pinned old
+# Jekyll 3.9.0 (from github-pages) still assumes they're available.
+gem "csv"
+gem "webrick"
+gem "base64"
+gem "logger"
+gem "ostruct"
+gem "bigdecimal"
+gem "mutex_m"
+gem "rexml"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
@@ -23,5 +34,7 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # gem 'hawkins' # live-reload; disabled locally, needs eventmachine which
+                   # fails to compile on this machine's Xcode CLT (missing
+                   # <iostream>). Re-enable once Xcode CLT is reinstalled.
 end

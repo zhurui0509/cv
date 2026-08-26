@@ -1,14 +1,17 @@
 ---
 permalink: /
 title: "About"
+tagline: "A Spatial Data Scientist"
 excerpt: "About me"
-author_profile: true
+layout: minimal
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there! I am Rui Zhu, a Senior Lecturer at the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/) (the UK). I am a geographer by training with a background in data science (so you can call me a Spatial Data Scientist). Broadly speaking, I study how humans and machines organize spatial knowledge, as well as their interactions with the environment. More specifically, I combine theory-informed (e.g., geography and semantics) and data-driven (e.g., machine learning and spatial statistics) approaches to address geospatial challenges such as data interoperability, spatial predictions, and spatial reasoning. My work has been applied to a wide range of applications, including urban studies, public health, environmental modeling, as well as humanitarian relief.
+Hi there! I am Rui Zhu, a Senior Lecturer at the [School of Geographical Sciences](https://www.bristol.ac.uk/geography/), [University of Bristol](https://www.bristol.ac.uk/). I am a geographer by training with a background in data science. Broadly speaking, I study how humans and machines represent, organize, and reason about spatial and temporal information to advance knowledge at the intersection of human, environmental, and AI systems. More specifically, I combine theory-informed approaches, drawing on geography, the social and environmental sciences, and human cognition, with data-driven methods, including machine learning, AI, and spatial statistics, to address geospatial challenges such as data interoperability, spatial prediction, and spatial reasoning. My work has been applied across a wide range of domains, including urban studies, public health, environmental modeling, and humanitarian relief. 
+
+Currently, I am co-leading the [Spatial Analysis and GeoAI (SAGE) Research Group](https://sage-bristol.github.io/) and serving as the secretary of [RGS-IBG GIScience Research Group](https://giscience-rgs.github.io/). 
 
 Research Interests
 ======
@@ -23,18 +26,39 @@ Research Interests
 
 Background 
 ======
-I received my Ph.D. in Geography from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/). I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/) and a Data Science Intern at the [Geospatial Science and Human Security Division, Oak Ridge National Laboratory, US](https://www.ornl.gov/gshsd). 
+I received my Ph.D. in Geography from the [Department of Geography](https://www.geog.ucsb.edu/), [University of California, Santa Barbara](https://www.ucsb.edu/). I obtained a M.S. degree in Information Sciences from the [School of Computing and Information](https://www.sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/). I have also worked as a Postdoctoral Scholar at the [Center for Spatial Studies, University of California, Santa Barbara](https://spatial.ucsb.edu/). 
 
-<span>Prospective Students/Scholars</span>
+
+Prospective Students/Scholars
 ======
-Master Student: I am the Programme Director for [MSc in Geographic Data Science and Spatial Analytics](https://www.bristol.ac.uk/study/postgraduate/taught/msc-geographic-data-science-and-spatial-analytics/). Students who want to advance their knowledge and skills with cutting-edge machine learning and AI techniques, and to learn how to apply them to real world problems, please apply for this program.  
+Master Student: I teach Geospatial Artificial Intelligence (GeoAI) in the [MSc in Geographic Data Science and Spatial Analytics](https://www.bristol.ac.uk/study/postgraduate/taught/msc-geographic-data-science-and-spatial-analytics/) programme. Students who want to advance their knowledge and skills with cutting-edge machine learning and AI techniques, and to learn how to apply them to real world problems, please apply for this program.  
 
-PhD Student: I am the Programme Director for [PhD in Geographic Data Science](https://www.bristol.ac.uk/study/postgraduate/research/geographic-data-science/), at the University of Bristol. I also serve as the Path Lead of Advanced Quantitative Methods at ESRC-funded [South West Doctoral Training Partnership](https://www.swdtp.ac.uk/). I am recruiting talented and self-motivated PhD students/Postdoc scholars whose research interests align with mine. Multiple kinds of fellowship could be applied under my supervision. Please keep in touch if you are interested by sending me your CV and proposal. 
+PhD Student: I am recruiting talented and self-motivated PhD students/Postdoc scholars whose research interests align with mine. Please keep in touch if you are interested by sending me your CV and proposal. I could supervise students in three programmes: [PhD in Geographical Data Sciences](https://www.bristol.ac.uk/geography/courses/postgraduate/phd-in-geographic-data-science/), [PhD in Human Geography](https://www.bristol.ac.uk/geography/courses/postgraduate/humanphd.html), and [PhD in Physical Geography](https://www.bristol.ac.uk/geography/courses/postgraduate/physphd.html). Multiple kinds of fellowship could be applied under my supervision. 
 
 Visiting Scholar: I am considering visiting scholars who are willing to work with me at the University of Bristol. Contact me if you are interested. 
 
 
-<!-- <span>News</span>
+News
+======
+
+<div class="news-list">
+  <div class="news-item">
+    <img class="news-item__image" src="/images/book-GeoFM.png" alt="Cover of Geography According to Foundation Models">
+    <div class="news-item__body">
+      <h3><a href="https://ebooks.iospress.nl/volume/geography-according-to-foundation-models" target="_blank" rel="noopener">Geography According to Foundation Models</a></h3>
+      <p>My new edited volume is now out with IOS Press, in the <em>Frontiers in Artificial Intelligence and Applications</em> series.</p>
+    </div>
+  </div>
+
+  <div class="news-item news-item--text-only">
+    <div class="news-item__body">
+      <h3><a href="https://www.cosit2026.uk" target="_blank" rel="noopener">COSIT 2026</a></h3>
+      <p>I am serving as Programme Chair for the 17th Conference on Spatial Information Theory.</p>
+    </div>
+  </div>
+</div>
+
+<!-- <span>Old News</span>
 ======
 * [February, 2023] The [2nd Workshop on Geospatial Knowledge Graphs and Geospatial AI](https://geokg-geoai2023.github.io/) will be colocated with [GIScience2023](https://giscience2023.github.io/). We look forward to seeing you at Leeds, UK! 
 * [February, 2023] The [4th Spatial Data Science Symposium (SDSS2023)](http://sdss2023.spatial-data-science.net/index.html) will be hosted again as a distributed and online event on September 5-6, 2023. McGill University is confirmed as one of the hubs. 

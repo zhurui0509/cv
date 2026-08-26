@@ -1,0 +1,31 @@
+---
+layout: minimal
+title: "Projects"
+tagline: "Selected Projects."
+permalink: /projects/
+---
+
+<!--
+  HOW TO ADD / REMOVE / REORDER A PROJECT
+  ----------------------------------------
+  Each project is one markdown file in the _projects/ folder. To add a new
+  project, copy an existing file in _projects/ (e.g. _projects/project-1.md),
+  rename it, and edit its front matter + text. To remove a project, delete
+  its file. To reorder them, change the "order" number in the front matter
+  (lower numbers appear first) - no need to touch this page.
+
+  A project has two separate bits of text:
+  - front matter "summary:" -> shown here, on this listing page, next to
+    the image. Keep it short.
+  - the file's body (below the "---") -> shown only on that project's own
+    page (the one its title links to). This is where the longer version
+    goes.
+-->
+
+{% assign sorted_projects = site.projects | sort: "order" %}
+
+<div class="project-list">
+  {% for project in sorted_projects %}
+    {% include project-box.html project=project %}
+  {% endfor %}
+</div>

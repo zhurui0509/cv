@@ -1,0 +1,23 @@
+---
+---
+{% include base_path %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+{% include head-minimal.html %}
+<body>
+  <div class="shell">
+    {% include identity-rail.html %}
+
+    <main>
+      <p class="eyebrow"><a href="{{ '/projects/' | prepend: base_path }}">&larr; Projects</a></p>
+      <h2 class="title">{{ page.title }}</h2>
+
+      {{ content }}
+
+      {% if page.link %}
+        <p><a href="{{ page.link }}" target="_blank" rel="noopener">{{ page.link_text | default: "Project website" }} &rarr;</a></p>
+      {% endif %}
+    </main>
+  </div>
+</body>
+</html>

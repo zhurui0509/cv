@@ -1,0 +1,23 @@
+{% include base_path %}
+
+{% comment %}
+  Renders one team member as a photo + name (+ optional role/year/link).
+  role and year render as two separate lines. Expects a `person` variable
+  in scope (a doc from the `team` collection).
+{% endcomment %}
+
+<div class="team-member">
+  <img
+    class="team-member__image"
+    src="{% if person.image contains '://' %}{{ person.image }}{% else %}{{ person.image | prepend: base_path }}{% endif %}"
+    alt="{{ person.name }}">
+  <div class="team-member__name">
+    {% if person.link %}
+      <a href="{{ person.link }}" target="_blank" rel="noopener">{{ person.name }}</a>
+    {% else %}
+      {{ person.name }}
+    {% endif %}
+  </div>
+  {% if person.role %}<div class="team-member__role">{{ person.role }}</div>{% endif %}
+  {% if person.year %}<div class="team-member__year">{{ person.year }}</div>{% endif %}
+</div>
