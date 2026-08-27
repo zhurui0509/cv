@@ -232,7 +232,9 @@ main > ul li {
   border-radius: 3px;
   background: var(--surface);
   border: 1px solid var(--line);
-  object-fit: cover;
+  object-fit: contain;
+  padding: 0.4rem;
+  box-sizing: border-box;
   display: block;
 }
 
