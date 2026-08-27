@@ -2,7 +2,7 @@
 title: "KnowWhereGraph: Enriching and Linking Cross-Domain Knowledge Graphs using Spatially-Explicit AI Technologies"
 collection: projects
 permalink: /projects/:path/
-image: /images/projects/KWG.svg
+image: /images/projects/KWG.png
 order: 4
 subtitle:
 link: https://www.knowwheregraph.org
