@@ -50,10 +50,11 @@ News
     </div>
   </div>
 
-  <div class="news-item news-item--text-only">
+  <div class="news-item">
+    <img class="news-item__image" src="/images/COSIT2026-proceeding.png" alt="Cover of the COSIT 2026 proceedings">
     <div class="news-item__body">
       <h3><a href="https://www.cosit2026.uk" target="_blank" rel="noopener">COSIT 2026</a></h3>
-      <p>I am serving as Programme Chair for the 17th Conference on Spatial Information Theory.</p>
+      <p>I am serving as Programme Chair for the 17th Conference on Spatial Information Theory. The <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.COSIT.2026.0" target="_blank" rel="noopener">conference proceedings</a> are now available.</p>
     </div>
   </div>
 </div>
